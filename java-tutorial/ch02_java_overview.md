@@ -163,10 +163,15 @@ class Tiger {
 
 在控制台，输入tab 键，可以实现命令补全
 \t ：一个制表位，实现对齐的功能
+
 \n ：换行符
+
 \\ ：一个\
+
 \" :一个"
+
 \' ：一个'
+
 \r :一个回车System.out.println("timerring\r 北京"); 注意：回车不换行。
 
 ## 注释(comment)
